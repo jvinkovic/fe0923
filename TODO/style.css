@@ -1,0 +1,11 @@
+#lista {
+    margin-top: 15px;
+}
+
+#lista > div > button {
+    margin-left: 15px;
+}
+
+.crossed {
+    text-decoration: line-through;
+}
